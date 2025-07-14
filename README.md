@@ -2,7 +2,7 @@
 
 I have Uploaded 2 folders which are the Jupyter Analysis and the Kaggle dataset.
 
-Both are part of my practise session revolving around the Linear Regression model creation and data cleaning as well.
+Both are part of my practise session revolving around the Linear Regression model creation and EDA as well.
 
 70 % of the Project focus on the Exploratory Data Analysis where I have cleaned and modified the datasets so that it can be deployed in the Model.
 
